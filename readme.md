@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ĐỒ ÁN REACTJS - MOVIE TICKET BOOKING WEBSITE
 
 ___
